@@ -1,4 +1,3 @@
-# theme: slate
 # The Punny Baker
 Welcom to The Punny Baker
 
