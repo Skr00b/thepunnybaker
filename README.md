@@ -1,6 +1,4 @@
 # thepunnybaker
-The Punny Baker
+Welcom to The Punny Baker
 
-[Instagram](https://instagram.com/the.punny.baker)
-
-[Instagram](instagram://user?username=the.punny.baker)
+Checkout my [Instagram](https://instagram.com/the.punny.baker)
